@@ -1,0 +1,66 @@
+'Antiküfür sistemi #ADDED'
+-isteğe bağlı aktif edilebilir.
+-çoklu dil desteği
+-küfür içerikli mesajı siler.
+-öğretilen küfür içeriği %100
+-3264 satır 25 dil küfür içeriği
+
+'Anket sistemi #ADDED'
+-10 seçenekli anket sistemi
+-süre sistemi
+-yalnızca yetkili kişiler anket başlatabilir
+-isteğe bağlı aktif edilebilir
+
+'Ekonomi sistemi #ADDED'
+-kapsamlı ekonomi sistemi
+-para birimi lunaria "geçiçi"
+-çoklu modül desteği
+-veritabanı kayıt sistemi
+-yetkili kişilere özel komutlar
+
+'Karşılama sistemi #ADDED'
+-id sistemli kanal kayıt
+-yalnızca yetkili kişiler kullanabilir
+
+'Otorol sistemi #ADDED'
+-kullanıcıya özel rol atama
+-Bot'a özel rol atama
+-yalnızca yetkili kişiler kullanabilir
+
+'oyun sistemi #ADDED'
+-sayıtahmin oyunu
+-adamasmaca oyunu
+-full oto savaş simulasyonu
+-belirli oyunlarda zafer sonucu Luanria kazanma
+
+'toplu rol ekle-sil sistemi #ADDED'
+-tek komut ile tüm üyelere rol ekleme
+-tek komut ile tüm üyelerden rol silme
+-yalnızca yetkili kişiler kullanılabilir
+
+'mesaja karşılık sistemi #ADDED'
+-mesajlara otomatik cevap verir
+-günaydın mesajına gif ile karşılık verir
+-yetkililere özel komutlar mevcut
+
+'Yardım sistemi #ADDED'
+-Bot'a ait tüm komutları içerir
+
+'Yetki sistemi #ADDED'
+-yalnızca yetkililere özel
+
+'Ticket sistemi #ADDED'
+-gelişmiş ticket sistemi
+-ticketlara özel kanal oluşturma sistemi
+-ticketları yalnızca yetkililer kapatbilir
+-özel ticket kanal komutu
+-ticket komutunda oto rol verilir kişiye ait ticket kapatıldığında rol geri alınır
+
+'Update sistemi #ADDED
+-Bot'a ait geliştirme mesajları içerir
+
+'Settings sistemi'
+-tüm sistemi kapsayan veritabanı sistemi
+-sqlite3 veritabanı kullanılıyor
+
+! yetki sistemi kapsamında tüm moderasyon komutları yetki verilen kişilerce kullanılabilir.
